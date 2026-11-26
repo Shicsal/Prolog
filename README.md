@@ -1,4 +1,0 @@
-# Prolog
-Prolog
-# Prolog
-# Prolog
